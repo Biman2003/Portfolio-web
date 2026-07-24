@@ -3,7 +3,7 @@
 Welcome to my personal portfolio repository! This project showcases my skills, projects, and professional background in Computer Science & Engineering.
 
 ## 🚀 Live Demo
-*(You can add a link to your live portfolio here, e.g., https://bimansingha.github.io/Portfolio)*
+
 
 ## 🛠️ Built With
 
@@ -43,6 +43,6 @@ To get a local copy up and running, follow these simple steps:
 
 ## 📫 Contact
 
-Biman Singha - *(Add your email or LinkedIn here)*
+Biman Singha - [singhabiman33@gmail.com]
 
 Project Link: [https://github.com/Biman2003/Portfolio](https://github.com/Biman2003/Portfolio)
